@@ -3,3 +3,4 @@ Second line of test
 Three line of test
 Fifth line of test
 Fourth line of git
+Sixth line of git
