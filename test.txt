@@ -5,3 +5,7 @@ Fifth line of test
 Fourth line of git
 Sixth line of git
 7th line of git
+8th line of git 
+9th line of git
+10th line of git
+
